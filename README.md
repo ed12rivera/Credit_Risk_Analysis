@@ -4,7 +4,7 @@
 We are analyzing data from LendingClub, a peer-to-peer lending services company, and creating a machine learning model that will predict an applicant’s credit risk.
 
 ### Purpose
-The purpose of the model is to help streamline the application process.  For the project we will employ different sampling techniques to account for unbalanced classes.  We will then test and compare a balanced random forest classifier and easy ensemble classifier, two models that reduce bias, and determine if either of the models can be used to consistently predict an applicant’s credit risk.
+The purpose of the model is to help streamline the application process for loans.  For the project we will employ different sampling techniques to account for unbalanced classes.  We will then test and compare a balanced random forest classifier and easy ensemble classifier, two models that reduce bias, and determine if either of the models can be used to consistently predict an applicant’s credit risk.
 
 ## Results
 -	Naïve Random Oversampling logistic regression
